@@ -1,0 +1,44 @@
+ #game div {
+    border: 1px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+  } 
+  .close{
+    background-color:violet;
+    border:#000 1px solid
+  }
+  .reset{
+    background-color: red;
+    border:#000 1px solid
+  }
+  /* div #game>div{
+      background: yellow;
+      border:#000 1px solid;
+
+  }
+  .purple{
+    
+    background-color: purple;
+  }
+  .orange{
+
+        
+        background-color: orange;
+      }
+
+.cyan{
+
+        background-color: cyan;
+}
+.green{
+    
+    background-color: green;
+  }
+  .blue {
+    
+    background-color: blue;
+  }
+   */
